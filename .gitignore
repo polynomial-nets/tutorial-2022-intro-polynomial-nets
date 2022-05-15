@@ -4,12 +4,17 @@
 *.egg-info/*
 *tmp*.py
 *tmp*
+*.mat
+*.swp
 *.*.backup
+*Copy*.ipynb
+
 **/__pycache__/
 **/results/
 **/results_*/
 **/template_icl/
 **/.ipynb_checkpoints/
+.ipynb_checkpoints/*
 **/demo/
 .chainerui_commands
 *tmp_grigoris
