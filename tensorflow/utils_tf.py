@@ -7,6 +7,7 @@ import sys
 import tensorflow as tf
 from tensorflow.keras import datasets
 import numpy as np
+
 padding = 4
 image_size = 32
 target_size = 32 + padding * 2
