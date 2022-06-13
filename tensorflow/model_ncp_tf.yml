@@ -1,0 +1,19 @@
+comment: '30 April 2022; No activation functions with NCP model; product of polynomials.'
+learning_rate: 0.1
+
+dataset:
+  batch_size: 128
+
+model:
+  fn: model_ncp_tf.py
+  name: ModelNCP_wrapper
+  args:
+    train: True
+    use_alpha: True
+    num_blocks: [2, 2, 2, 1]
+    use_only_first_conv: 1
+    kernel_sz: 5
+    norm_S: 1
+
+training_info:
+  total_epochs: 200
