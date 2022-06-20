@@ -3,7 +3,7 @@ Tutorial on high-degree polynomial networks
 ===========================================
 
 This code implements two polynomial networks for image recognition. 
-The two codes are based on the paper of `"**Π-nets: Deep Polynomial Neural Networks**" <<https://ieeexplore.ieee.org/document/9353253>`_ (also available `here <https://arxiv.org/abs/2006.13026>`_ ) [1]_.
+The two codes are based on the paper of `"**Π-nets: Deep Polynomial Neural Networks**" <https://ieeexplore.ieee.org/document/9353253>`_ (also available `here <https://arxiv.org/abs/2006.13026>`_ ) [1]_.
 
 The two networks are implemented in both Pytorch and Tensflow. Those networks are for demonstrating with minimal code examplesthe performance of the polynomial networks and are not really the state-of-the-art results. For networks that can achieve state-of-the-art results the source code of the papers can be followed, since they have more intricate implementations. For instance, for Π-nets, please check [1]_.
 
