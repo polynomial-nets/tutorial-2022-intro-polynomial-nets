@@ -2,13 +2,13 @@
 Tutorial on high-degree polynomial networks
 ===========================================
 
-.. image:: https://img.shields.io/badge/PyTorch-1.6.0-red
+.. image:: https://img.shields.io/badge/PyTorch-1.6.0-red.svg
    :alt: PyTorch
 
-.. image:: https://img.shields.io/badge/TensorFlow-2.4.0-green
+.. image:: https://img.shields.io/badge/TensorFlow-2.4.0-green.svg
    :alt: TensorFlow
 
-.. image:: https://img.shields.io/badge/JAX-0.3.2-blue
+.. image:: https://img.shields.io/badge/JAX-0.3.2-blue.svg
    :alt: JAX
 
 
