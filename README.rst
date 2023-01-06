@@ -2,7 +2,7 @@
 Tutorial on high-degree polynomial networks
 ===========================================
 
-.. image:: https://img.shields.io/badge/PyTorch-1.6.0-red.svg
+.. image:: https://img.shields.io/badge/PyTorch-1.12.0-red.svg
    :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: PyTorch
 
