@@ -3,12 +3,15 @@ Tutorial on high-degree polynomial networks
 ===========================================
 
 .. image:: https://img.shields.io/badge/PyTorch-1.6.0-red.svg
+   :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: PyTorch
 
 .. image:: https://img.shields.io/badge/TensorFlow-2.4.0-green.svg
+   :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: TensorFlow
 
 .. image:: https://img.shields.io/badge/JAX-0.3.2-blue.svg
+   :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: JAX
 
 
@@ -24,9 +27,13 @@ The two networks include the following:
 *    The python files implement a product of polynomials (each polynomial has an NCP-based second degree polynomial). 
 
 .. image:: https://img.shields.io/badge/-New-brightgreen
+   :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
+   :alt: New
+
 A new JAX implementation for polynomial networks has been added (i.e., ``CCP_minimum_example_JAX.ipynb``).  
 
- 
+
+
 Train the network (of the *.py files)
 ====================================
 
