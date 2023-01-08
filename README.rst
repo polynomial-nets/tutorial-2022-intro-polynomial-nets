@@ -20,30 +20,14 @@ The two codes are based on the paper of `"**Π-nets: Deep Polynomial Neural Netw
 
 The two networks are implemented in both Pytorch and Tensorflow (in the folder ``tensorflow``). Those networks aim to demonstrate the performance of the polynomial networks with minimal code examples; therefore, they are not really the state-of-the-art results on recognition. For networks that can achieve state-of-the-art results the source code of the papers can be followed, since they have more intricate implementations. For instance, for Π-nets, please check [1]_.
 
-The two networks include the following: 
+Please visit the folders of ```PyTorch``` or ```tensorflow``` for implementations in PyTorch and TensorFlow respectively. 
 
-*    The jupyter notebook ``CCP_model_minimum_example.ipynb`` implements a simple CCP model on MNIST classification. This can be opened and executed directly in a Google Colab environment.
-
-*    The python files implement a product of polynomials (each polynomial has an NCP-based second degree polynomial). 
 
 .. image:: https://img.shields.io/badge/-New-brightgreen
    :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: New
 
 A new JAX implementation for polynomial networks has been added (i.e., ``CCP_minimum_example_JAX.ipynb``).  
-
-
-
-Train the network (of the *.py files)
-====================================
-
-To train the network, you can execute the following command::
-
-   python train_main.py
-
-
-
-Apart from PyTorch (or Tensorflow respectively), the code depends on Pyaml [2]_.
 
 
 
