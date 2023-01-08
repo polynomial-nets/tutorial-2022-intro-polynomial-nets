@@ -20,7 +20,7 @@ The two codes are based on the paper of `"**Π-nets: Deep Polynomial Neural Netw
 
 The two networks are implemented in both Pytorch and Tensorflow (in the folder ``tensorflow``). Those networks aim to demonstrate the performance of the polynomial networks with minimal code examples; therefore, they are not really the state-of-the-art results on recognition. For networks that can achieve state-of-the-art results the source code of the papers can be followed, since they have more intricate implementations. For instance, for Π-nets, please check [1]_.
 
-Please visit the folders of ```PyTorch``` or ```tensorflow``` for implementations in PyTorch and TensorFlow respectively. 
+Please visit the folders of ```pytorch``` or ```tensorflow``` for implementations in PyTorch and TensorFlow respectively. 
 
 
 .. image:: https://img.shields.io/badge/-New-brightgreen
