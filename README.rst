@@ -18,7 +18,7 @@ Tutorial on high-degree polynomial networks
 This code implements two polynomial networks for image recognition. 
 The two codes are based on the paper of `"**Π-nets: Deep Polynomial Neural Networks**" <https://ieeexplore.ieee.org/document/9353253>`_ (also available `here <https://arxiv.org/abs/2006.13026>`_ ) [1]_.
 
-The two networks are implemented in both Pytorch and Tensorflow (in the folder ``tensorflow``). Those networks aim to demonstrate the performance of the polynomial networks with minimal code examples; therefore, they are not really the state-of-the-art results on recognition. For networks that can achieve state-of-the-art results the source code of the papers can be followed, since they have more intricate implementations. For instance, for Π-nets, please check [1]_.
+The two networks are implemented in both PyTorch and TensorFlow (in the folder ``tensorflow``). Those networks aim to demonstrate the performance of the polynomial networks with minimal code examples; therefore, they are not really the state-of-the-art results on recognition. For networks that can achieve state-of-the-art results the source code of the papers can be followed, since they have more intricate implementations. For instance, for Π-nets, please check [1]_.
 
 Please visit the folders of ```pytorch``` or ```tensorflow``` for implementations in PyTorch and TensorFlow respectively. 
 
@@ -27,14 +27,34 @@ Please visit the folders of ```pytorch``` or ```tensorflow``` for implementation
    :target: https://github.com/polynomial-nets/tutorial-2022-intro-polynomial-nets
    :alt: New
 
-A new JAX implementation for polynomial networks has been added (i.e., ``CCP_minimum_example_JAX.ipynb``).  
+New JAX and Keras implementations for polynomial networks have been added (e.g., ``Minimum_example_JAX.ipynb``).  
+
+
+Notebooks with polynomial nets on different frameworks
+======================================================
+
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1UJ3l_t387GTWk8nSlr_fX2SNwXuglnNA
+
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1i858yL63kRE5qWn_nMe8cktTFecxAMBQ
+
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1R3NVusAxDY6hKue-HMqeZBVY6ABLSn08
+
+.. image:: https://colab.research.google.com/assets/colab-badge.svg
+   :target: https://colab.research.google.com/drive/1ZyN-tEa6aBYP1QxLU-KVmYnK-5RCY465
+
+
+The notebooks are the same as the one in the repo and contain minimum examples in PyTorch, TensorFlow, JAX and Keras respectively. 
+
 
 
 
 Acknowledgements
 ================
 
-We are thankful to Yongtao for the help of converting the code to Tensorflow. 
+We are thankful to Yongtao for the help of converting the code to TensorFlow. 
 
 
 References
