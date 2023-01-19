@@ -35,16 +35,19 @@ Notebooks with polynomial nets on different frameworks
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1UJ3l_t387GTWk8nSlr_fX2SNwXuglnNA
+   :alt: PyTorch
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1i858yL63kRE5qWn_nMe8cktTFecxAMBQ
+   :alt: TensorFlow
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1R3NVusAxDY6hKue-HMqeZBVY6ABLSn08
+   :alt: JAX
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
    :target: https://colab.research.google.com/drive/1ZyN-tEa6aBYP1QxLU-KVmYnK-5RCY465
-
+   :alt: Keras
 
 The notebooks are the same as the one in the repo and contain minimum examples in PyTorch, TensorFlow, JAX and Keras respectively. 
 
